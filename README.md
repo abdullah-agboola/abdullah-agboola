@@ -7,6 +7,7 @@
 - Email: abdullahagboola001@gmail.com
 - X: https://www.x.com/agboolabdullah
 - Instagram: https://www.instagram.com/abdullah.agboola
+- YouTube: https://www.youtube.com/@abdullah.agboola
 - ⚡ Fun fact: I’m embarking on a 100-Day Arduino Challenge starting October 20th
 
 <!---
